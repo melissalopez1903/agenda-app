@@ -1,8 +1,15 @@
-# React + Vite
+# agenda-react
+Desarrollo de una aplicación web para una agenda de contactos.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Cada contacto tiene su nombre, apellido, e-mail, teléfono y dirección.
+Se puede registrar, modificar, borrar y buscar contactos.
+Cuenta con listado de contactos.
 
-Currently, two official plugins are available:
+Uso de la API DummyJson para probar la aplicación
+https://dummyjson.com/users
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Uso de las siguientes tecnologías:
+- React
+- Axios
+- Material UI
+- React Router 6
